@@ -59,3 +59,6 @@ Running the Application
     From leavoda folder, Give the below command
 
         npm start
+
+###I have created the Sample user objects with below User Names:
+# Alex DiNunzio, Priyanka Bhosle

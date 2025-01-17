@@ -12,13 +12,13 @@ app.use(express.static(path.join(__dirname, 'public')));
 const users = [
     {
       "id": 1,
-      "username": "john_doe",
-      "profileImage": "/assets/images/profilepic.jpg",
-      "name": "John Doe",
+      "username": "Alex DiNunzio",
+      "profileImage": "/assets/images/Alex DiNunzio.png",
+      "name": "Alex DiNunzio",
       "gender": "Male",
       "age": 29,
       "address": {
-        "fullAddress": "1234 Elm Street, Springfield, IL, 62701, USA"
+        "fullAddress": "402 Elm Street, Springfield, IL, 62701, USA"
       },
       "workingPlace": {
         "companyName": "Tech Solutions Inc.",
@@ -26,30 +26,30 @@ const users = [
         "jobTitle": "Full Stack Developer"
       },
       "contactInformation": {
-        "name": "John Doe",
+        "name": "Alex DiNunzio",
         "phone": "+1 (555) ***-****",
-        "email": "john.doe@example.com"
+        "email": "Alex.DiNunzio@gmail.com"
       }
     },
     {
       "id": 2,
-      "username": "jane_doe",
+      "username": "Priyanka Bhosle",
       "profileImage": "/assets/images/Priyanka_Animated.jpeg",
-      "name": "Jane Doe",
+      "name": "Priyanka Bhosle",
       "gender": "Female",
       "age": 25,
       "address": {
         "fullAddress": "5678 Oak Avenue, Chicago, IL, 60616, USA"
       },
       "workingPlace": {
-        "companyName": "WebDev Studios",
+        "companyName": "Apex Technology",
         "department": "Frontend Development",
-        "jobTitle": "UI/UX Designer"
+        "jobTitle": "Full Stack Developer"
       },
       "contactInformation": {
-        "name": "Jane Doe",
+        "name": "Priyanka Bhosle",
         "phone": "+1 (555) ***-****",
-        "email": "jane.doe@example.com"
+        "email": "priyanka.bhosle@gmail.com"
       }
     }
   ]
