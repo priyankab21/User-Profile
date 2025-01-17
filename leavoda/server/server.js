@@ -27,7 +27,7 @@ const users = [
       },
       "contactInformation": {
         "name": "John Doe",
-        "phone": "+1 (555) 123-4567",
+        "phone": "+1 (555) ***-****",
         "email": "john.doe@example.com"
       }
     },
@@ -48,7 +48,7 @@ const users = [
       },
       "contactInformation": {
         "name": "Jane Doe",
-        "phone": "+1 (555) 987-6543",
+        "phone": "+1 (555) ***-****",
         "email": "jane.doe@example.com"
       }
     }
